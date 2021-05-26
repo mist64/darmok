@@ -1,35 +1,36 @@
-Philip J. Fry, his eyes squinted!
-Philip J. Fry, his hand outstretched, money offered!
-Zoidberg, in the audience, shouting!
-Jean-Luc Picard, his face in his hand!
-Willy Wonka, his face resting on his hand!
-A woman, crying!
-Homer Simpson, into the bushes!
-A toddler, his fist clenched!
+notsure:    Philip J. Fry, his eyes squinted!
+shutup:     Philip J. Fry, his hand outstretched, money offered!
+feelbad:    Zoidberg, in the audience, shouting!
+facepalm:   Jean-Luc Picard, his face in his hand!
+willywonka: Willy Wonka, his face resting on his hand!
+crying:     A woman, crying!
+bushes:     Homer Simpson, into the bushes!
+success:    A toddler, his fist clenched!
+cheers:     Leonardo DiCaprio, his glass raised!
+distracted: A couple, the boyfriend distracted, the girlfriend shocked!
+argument:   Paul Teutul, when the chair fell!
+popcorn:    Michael Jackson, eating popcorn!
+aliens:     The History Channel Guy, his hair messy!
+trap:       Admiral Ackbar, when the shields fell!
+fellowkids: Steve Buscemi, with a skateboard!
+micdrop:    Obama, when the mic dropped!
+everywhere: Buzz Lightyear, his hand on Woody's shoulder!
+nod:        James T. Kirk and Leonard McCoy, nodding!
+sad:        Keanu reeves, sitting on a bench, his look downcast!
+yodawg:     Xzibit, smiling!
+blinking:   Drew Scanlon, his eyes blinking!
+flail:      Kermit the frog, his arms waving!
+rain:       David Tennant, when the rain fell!
+clapping:   Orson Welles, clapping!
+
 Wesley Snipes, his face wet!
-Leonardo DiCaprio, his glass raised!
-A couple, the boyfriend distracted, the girlfriend shocked!
 Troy Barnes, returning with pizzas, his face fallen!
-Paul Teutul, when the chair fell!
-Michael Jackson, eating popcorn!
-The History Channel Guy, his hair messy!
-Admiral Ackbar, when the shields fell!
-Steve Buscemi, with a skateboard!
-Obama, when the mic dropped!
-Buzz Lightyear, his hand on Woody's shoulder!
-James T. Kirk and Leonard McCoy, nodding!
-Keanu reeves, sitting on a bench, his look downcast!
-Xzibit, smiling!
-Drew Scanlon, his eyes blinking!
-Kermit the frog, his arms waving!
-David Tennant, when the rain fell!
-Orson Welles, clapping!
 
 https://giphy.com/gifs/win-nXxOjZrbnbRxS!
 A girl, her face in doubt, her teeth pronounced!
 John Travolta, (looking around)
 A girl, when she received Goosebumps books
-A dog with a hat, sitting in a burning room
+A dog with coffee, the room on fire
 Principal Skinner, having a moment of self-doubt
 Grandpa Simpson (arrives, and then departs)
 (Batman and Robin, the slap given)
