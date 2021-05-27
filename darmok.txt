@@ -1,7 +1,7 @@
 darmok:        DARMOK AND JALAD|AT TANAGRA!
 shaka:         SHAKA|WHEN THE WALLS FELL!
 temba:         TEMBA|HIS ARMS WIDE!
-#              TEMBA|AT REST!
+tembarest:     TEMBA|AT REST!
 sokath:        SOKATH|HIS EYES UNCOVERED!
 mirab:         MIRAB|HIS SAILS UNFURLED!
 temarc:        THE RIVER TEMARC|IN WINTER!
@@ -16,7 +16,7 @@ crying2:       WESLEY SNIPES|HIS FACE WET!
 bushes:        HOMER SIMPSON|INTO THE BUSHES!
 success:       A TODDLER|HIS FIST CLENCHED!
 cheers:        LEONARDO DICAPRIO|HIS GLASS RAISED!
-distracted:    A COUPLE, THE BOYFRIEND DISTRACTED, THE GIRLFRIEND SHOCKED!
+distracted:    THE BOYFRIEND DISTRACTED|THE GIRLFRIEND SHOCKED!
 argument:      PAUL TEUTUL|WHEN THE CHAIR FELL!
 popcorn:       MICHAEL JACKSON|EATING POPCORN!
 aliens:        THE HISTORY CHANNEL GUY|HIS HAIR MESSY!
@@ -34,11 +34,11 @@ clapping:      ORSON WELLES|CLAPPING!
 fine:          A DOG WITH COFFEE|THE ROOM ON FIRE!
 pizza:         TROY BARNES WITH PIZZAS|HIS FACE FALLEN!
 susanne:       SUSANNE|HER FACE IN HER HAND!
+outoftouch:    PRINCIPAL SKINNER|IN A MOMENT OF SELF-DOUBT!
+confused:      JOHN TRAVOLTA|LOOKING AROUND!
 #
-#outoftouch:    Principal Skinner, having a moment of self-doubt
 #https://giphy.com/gifs/win-nXxOjZrbnbRxS!
 #A girl, her face in doubt, her teeth pronounced!
-#John Travolta, (looking around)
 #A girl, when she received Goosebumps books
 #Grandpa Simpson (arrives, and then departs)
 #(Batman and Robin, the slap given)
