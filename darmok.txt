@@ -6,7 +6,7 @@ sokath:        SOKATH|HIS EYES UNCOVERED!
 mirab:         MIRAB|HIS SAILS UNFURLED!
 temarc:        THE RIVER TEMARC|IN WINTER!
 #
-notsure:       PHILIP J. FRY|HIS EYES SQUINTED!
+notsure:       PHILIP J. FRY|HIS EYES SQUINTED!                 : https://knowyourmeme.com/memes/futurama-fry-not-sure-if
 shutup:        PHILIP J. FRY|HIS HAND OUTSTRETCHED!
 bad:           ZOIDBERG IN THE AUDIENCE|SHOUTING!
 facepalm:      JEAN-LUC PICARD|HIS FACE IN HIS HAND!
@@ -16,8 +16,7 @@ crying:        WESLEY SNIPES|HIS FACE WET!
 bushes:        HOMER SIMPSON|INTO THE BUSHES!
 success:       A TODDLER|HIS FIST CLENCHED!
 gatsby:        LEONARDO DICAPRIO|HIS GLASS RAISED!
-distracted:    THE BOYFRIEND DISTRACTED|THE GIRLFRIEND SHOCKED!
-argument:      AMERICAN CHOPPER GUYS|WHEN THE CHAIR FELL!
+distracted:    THE BOYFRIEND DISTRACTED|THE GIRLFRIEND SHOCKED! :
 popcorn:       MICHAEL JACKSON|EATING POPCORN!
 aliens:        THE HISTORY CHANNEL GUY|HIS HAIR MESSY!
 trap:          ADMIRAL ACKBAR|WHEN THE SHIELDS FELL!
@@ -33,9 +32,11 @@ saddoctor:     DAVID TENNANT|WHEN THE RAIN FELL!
 slowclap:      ORSON WELLES|CLAPPING!
 fine:          A DOG WITH COFFEE|THE ROOM ON FIRE!
 pizza:         TROY BARNES WITH PIZZAS|HIS FACE FALLEN!
-susanne:       SUSANNE|HER FACE IN HER HAND!
 outoftouch:    PRINCIPAL SKINNER|IN A MOMENT OF SELF-DOUBT!
 confused:      JOHN TRAVOLTA|LOOKING AROUND!
+argument:      AMERICAN CHOPPER GUYS|WHEN THE CHAIR FELL!
+#
+#susanne:       SUSANNE|HER FACE IN HER HAND!
 #
 #https://giphy.com/gifs/win-nXxOjZrbnbRxS!
 #A girl, her face in doubt, her teeth pronounced!
