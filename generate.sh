@@ -1,4 +1,4 @@
-OUT=darmok
+OUT=www
 
 rm -rf $OUT
 mkdir $OUT
