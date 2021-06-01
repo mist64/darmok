@@ -35,5 +35,7 @@ cat darmok.txt | grep -v "^#" | while IFS=":" read -r key value link; do
 	echo "</a>" >> $OUT/index.html
 done
 
+echo "<hr>" >> $OUT/index.html
+echo "<p align=\"right\">Anything missing? <a href=\"mailto:admin@darmok.com\">admin@darmok.com</a></p>" >> $OUT/index.html
 echo "</body>" >> $OUT/index.html
 echo "</html>" >> $OUT/index.html
