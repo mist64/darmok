@@ -6,35 +6,35 @@ sokath:        SOKATH|HIS EYES UNCOVERED!
 mirab:         MIRAB|HIS SAILS UNFURLED!
 temarc:        THE RIVER TEMARC|IN WINTER!
 #
+aliens:        THE HISTORY CHANNEL GUY|HIS HAIR MESSY!          : https://knowyourmeme.com/memes/ancient-aliens
+approve:       KIRK AND MCCOY|NODDING!                          : http://www.reactiongifs.com/dr-mccoy-and-captain-kirk-approve/
+bad:           ZOIDBERG IN THE AUDIENCE|SHOUTING!               : https://knowyourmeme.com/memes/your-musics-bad-and-you-should-feel-bad
+blinking:      A WHITE GUY|HIS EYES BLINKING!                   : https://knowyourmeme.com/memes/blinking-white-guy
+bushes:        HOMER SIMPSON|INTO THE BUSHES!                   : https://knowyourmeme.com/memes/homer-simpson-backs-into-bushes
+condescending: WILLY WONKA|HIS FACE RESTING ON HIS HAND!        : https://knowyourmeme.com/memes/condescending-wonka-creepy-wonka
+confused:      JOHN TRAVOLTA|LOOKING AROUND!                    : https://knowyourmeme.com/memes/confused-travolta
+crying:        WESLEY SNIPES|HIS FACE WET!                      : https://knowyourmeme.com/memes/wesley-snipes-crying
+distracted:    THE BOYFRIEND DISTRACTED|THE GIRLFRIEND SHOCKED! : https://knowyourmeme.com/memes/distracted-boyfriend
+everywhere:    BUZZ LIGHTYEAR|HIS HAND ON WOODY'S SHOULDER!     : https://knowyourmeme.com/memes/x-x-everywhere
+facepalm:      JEAN-LUC PICARD|HIS FACE IN HIS HAND!            : https://knowyourmeme.com/memes/facepalm
+fellowkids:    STEVE BUSCEMI|WITH A SKATEBOARD!                 : https://knowyourmeme.com/memes/how-do-you-do-fellow-kids
+fine:          A DOG WITH COFFEE|THE ROOM ON FIRE!              : https://knowyourmeme.com/memes/this-is-fine
+firstworld:    A WOMAN|HER FACE WET!                            : https://knowyourmeme.com/memes/first-world-problems
+flailing:      KERMIT THE FROG|HIS ARMS FLAILING!               : https://imgflip.com/memegenerator/81198666/Kermit-Flail
+gatsby:        LEONARDO DICAPRIO|HIS GLASS RAISED!              : https://knowyourmeme.com/memes/great-gatsby-reaction
+micdrop:       BARACK OBAMA|WHEN THE MIC DROPPED!               : 
 notsure:       PHILIP J. FRY|HIS EYES SQUINTED!                 : https://knowyourmeme.com/memes/futurama-fry-not-sure-if
-shutup:        PHILIP J. FRY|HIS HAND OUTSTRETCHED!
-bad:           ZOIDBERG IN THE AUDIENCE|SHOUTING!
-facepalm:      JEAN-LUC PICARD|HIS FACE IN HIS HAND!
-condescending: WILLY WONKA|HIS FACE RESTING ON HIS HAND!
-firstworld:    A WOMAN|HER FACE WET!
-crying:        WESLEY SNIPES|HIS FACE WET!
-bushes:        HOMER SIMPSON|INTO THE BUSHES!
-success:       A TODDLER|HIS FIST CLENCHED!
-gatsby:        LEONARDO DICAPRIO|HIS GLASS RAISED!
-distracted:    THE BOYFRIEND DISTRACTED|THE GIRLFRIEND SHOCKED! :
-popcorn:       MICHAEL JACKSON|EATING POPCORN!
-aliens:        THE HISTORY CHANNEL GUY|HIS HAIR MESSY!
-trap:          ADMIRAL ACKBAR|WHEN THE SHIELDS FELL!
-fellowkids:    STEVE BUSCEMI|WITH A SKATEBOARD!
-micdrop:       BARACK OBAMA|WHEN THE MIC DROPPED!
-everywhere:    BUZZ LIGHTYEAR|HIS HAND ON WOODY'S SHOULDER!
-approve:       KIRK AND MCCOY|NODDING!
-sadkeanu:      KEANU REEVES|HIS LOOK DOWNCAST!
-yodawg:        XZIBIT|SMILING!
-blinking:      A WHITE GUY|HIS EYES BLINKING!
-flailing:      KERMIT THE FROG|HIS ARMS FLAILING!
-saddoctor:     DAVID TENNANT|WHEN THE RAIN FELL!
-slowclap:      ORSON WELLES|CLAPPING!
-fine:          A DOG WITH COFFEE|THE ROOM ON FIRE!
-pizza:         TROY BARNES WITH PIZZAS|HIS FACE FALLEN!
-outoftouch:    PRINCIPAL SKINNER|IN A MOMENT OF SELF-DOUBT!
-confused:      JOHN TRAVOLTA|LOOKING AROUND!
-argument:      AMERICAN CHOPPER GUYS|WHEN THE CHAIR FELL!
+outoftouch:    PRINCIPAL SKINNER|IN A MOMENT OF SELF-DOUBT!     : https://knowyourmeme.com/memes/am-i-out-of-touch
+pizza:         TROY BARNES WITH PIZZAS|HIS FACE FALLEN!         : https://knowyourmeme.com/photos/790898-donald-glover
+popcorn:       MICHAEL JACKSON|EATING POPCORN!                  : https://knowyourmeme.com/memes/popcorn-gifs
+saddoctor:     DAVID TENNANT|WHEN THE RAIN FELL!                : https://knowyourmeme.com/photos/365675-cinemagraphs
+sadkeanu:      KEANU REEVES|HIS LOOK DOWNCAST!                  : https://knowyourmeme.com/memes/sad-keanu
+shutup:        PHILIP J. FRY|HIS HAND OUTSTRETCHED!             : https://knowyourmeme.com/memes/shut-up-and-take-my-money
+slowclap:      ORSON WELLES|CLAPPING!                           : https://knowyourmeme.com/memes/slow-clap
+success:       A TODDLER|HIS FIST CLENCHED!                     : https://knowyourmeme.com/memes/success-kid-i-hate-sandcastles
+trap:          ADMIRAL ACKBAR|WHEN THE SHIELDS FELL!            : https://knowyourmeme.com/memes/its-a-trap
+yodawg:        XZIBIT|SMILING!                                  : https://knowyourmeme.com/memes/xzibit-yo-dawg
+argument:      AMERICAN CHOPPER GUYS|WHEN THE CHAIR FELL!       : https://knowyourmeme.com/memes/american-chopper-argument
 #
 #susanne:       SUSANNE|HER FACE IN HER HAND!
 #
