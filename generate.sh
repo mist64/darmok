@@ -10,5 +10,8 @@ cat darmok.txt | grep -v "^#" | while IFS=":" read -r key value; do
 	cat index.html | 
 		sed -e "s/KEY/$key/" |
 		sed -e "s/ALT/$value/" > $OUT/${key}/index.html
-		
+
+	echo "<a href=\"$key\">" >> $OUT/index.html
+	echo "<img src=\"$key/${key}.jpg\" alt=\"$value\" width=\"160\">" >> $OUT/index.html
+	echo "</a>" >> $OUT/index.html
 done
