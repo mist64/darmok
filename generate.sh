@@ -5,6 +5,7 @@ mkdir $OUT
 
 echo "<html>" > $OUT/index.html
 echo "<head>" >> $OUT/index.html
+echo "<title>darmok.com: Memes in the Tamarian Language</title>" >> $OUT/index.html
 echo "<meta property=\"og:title\" content=\"darmok.com\" />" >> $OUT/index.html
 echo "<meta property=\"og:image\" content=\"darmok/darmok.jpg\" />" >> $OUT/index.html
 echo "<meta name=\"viewport\" content=\"width=380\">" >> $OUT/index.html
