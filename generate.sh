@@ -36,12 +36,12 @@ cat darmok.txt | grep -v "^#" | while IFS=":" read -r key value link; do
 
 	echo "<a href=\"$key\">" >> $OUT/index.html
 	#echo "<img src=\"$key/${key}.jpg\" alt=\"$value\" width=\"160\">" >> $OUT/index.html
-	echo "<img onmouseover=\"this.src='${key}/${key}.jpg';\" onmouseout=\"this.src='$key/orig.${orig_extension}';\" src=\"$key/orig.${orig_extension}\" alt=\"$value\" width=\"160\">" >> $OUT/index.html
+	echo "<img onmouseover=\"this.src='${key}/${key}.jpg';\" onmouseout=\"this.src='$key/orig.${orig_extension}';\" src=\"$key/orig.${orig_extension}\" alt=\"$value\" width=\"160\" style=\"vertical-align: top;\">" >> $OUT/index.html
 	echo "</a>" >> $OUT/index.html
 done
 
 echo "</p>" >> $OUT/index.html
 echo "<hr>" >> $OUT/index.html
-echo "<p align=\"right\">Anything missing? <a href=\"mailto:admin@darmok.com\">admin@darmok.com</a></p>" >> $OUT/index.html
+echo "<p align=\"center\">Anything missing? <a href=\"mailto:admin@darmok.com\">admin@darmok.com</a> or <a href=\"https://github.com/mist64/darmok\">github.com/mist64/darmok</a></p>" >> $OUT/index.html
 echo "</body>" >> $OUT/index.html
 echo "</html>" >> $OUT/index.html
