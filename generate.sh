@@ -8,8 +8,11 @@ echo "<head>" >> $OUT/index.html
 echo "<meta property=\"og:title\" content=\"darmok.com\" />" >> $OUT/index.html
 echo "<meta property=\"og:image\" content=\"darmok/darmok.jpg\" />" >> $OUT/index.html
 echo "<meta name=\"viewport\" content=\"width=380\">" >> $OUT/index.html
+# https://github.com/simonwhitaker/github-fork-ribbon-css
+echo "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css\" />" >> $OUT/index.html
 echo "</head>" >> $OUT/index.html
 echo "<body>" >> $OUT/index.html
+echo "<a class=\"github-fork-ribbon\" href=\"https://github.com/mist64/darmok\" data-ribbon=\"Fork me on GitHub\" title=\"Fork me on GitHub\">Fork me on GitHub</a>" >> $OUT/index.html
 echo "<p align=\"center\">" >> $OUT/index.html
 
 
@@ -33,7 +36,7 @@ cat darmok.txt | grep -v "^#" | while IFS=":" read -r key value link; do
 
 	echo "<a href=\"$key\">" >> $OUT/index.html
 	#echo "<img src=\"$key/${key}.jpg\" alt=\"$value\" width=\"160\">" >> $OUT/index.html
-	echo "<img src=\"$key/orig.${orig_extension}\" alt=\"$value\" width=\"160\">" >> $OUT/index.html
+	echo "<img onmouseover=\"this.src='${key}/${key}.jpg';\" onmouseout=\"this.src='$key/orig.${orig_extension}';\" src=\"$key/orig.${orig_extension}\" alt=\"$value\" width=\"160\">" >> $OUT/index.html
 	echo "</a>" >> $OUT/index.html
 done
 
