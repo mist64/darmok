@@ -35,6 +35,8 @@ success:       A TODDLER|HIS FIST CLENCHED!                     : https://knowyo
 trap:          ADMIRAL ACKBAR|WHEN THE SHIELDS FELL!            : https://knowyourmeme.com/memes/its-a-trap
 yodawg:        XZIBIT|SMILING!                                  : https://knowyourmeme.com/memes/xzibit-yo-dawg
 argument:      AMERICAN CHOPPER GUYS|WHEN THE CHAIR FELL!       : https://knowyourmeme.com/memes/american-chopper-argument
+icant:         NATHAN FILLION|HAS NO WORDS                      : https://knowyourmeme.com/photos/933854-cant-argue-with-that-technically-not-wrong
+bikefall:      BICYCLIST WITH A STICK|AAH, HIS KNEE!            : https://knowyourmeme.com/memes/baton-roue
 #
 #susanne:       SUSANNE|HER FACE IN HER HAND!
 #
